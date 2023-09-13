@@ -1,0 +1,26 @@
+/* Write your CSS here */
+
+.list-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  width: 100%;
+  max-width: 270px;
+  padding: 7px;
+}
+img {
+  height: 150px;
+  width: 100%;
+  max-width: 270px;
+}
+
+.img-name {
+  font-family: 'Roboto';
+  font-size: 17px;
+  font-weight: 500;
+  width: 100%;
+  max-width: 270px;
+  text-align: center;
+}
